@@ -1,6 +1,5 @@
 #ifndef ROCKPAPERSCISSORS_HPP
 #define ROCKPAPERSCISSORS_HPP
-#include <iostream>
 
 //Create RockPaperScissors class
 //
